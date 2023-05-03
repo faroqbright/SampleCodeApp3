@@ -1,0 +1,20 @@
+
+export const Colors = {
+    White: '#FFFFFF',
+    Black: '#000',
+    DarkBlue: '#0F0A39',
+    DarkGray: '#7B7890',
+    LightBlue: '#00B3EC',
+    GreenBlue: '#0B94DA',
+    LightGray: '#CBC9D9',
+    InputField: '#F5F6FA',
+    Yellow: '#F1C60F',
+    Blue: '#778EF0',
+    Maroon: '#A98CD6',
+    Green: '#00ECCC',
+    LightGreen: '#5DD583',
+    Red: '#E25313',
+    CreamWhite: '#E3E3E3',
+    black: '#000000',
+    white: '#ffffff',
+}
